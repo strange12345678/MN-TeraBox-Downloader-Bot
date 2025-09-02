@@ -27,7 +27,7 @@ last_upload_col = db["terabox_lastupload"]
 
 TERABOX_REGEX = r'https?://(?:www\.)?[^/\s]*tera[^/\s]*\.[a-z]+/s/[^\s]+'
 
-COOKIE = "ndus=YzrYlCHteHuixx7IN5r0fc3sajSOYAHfqDoPM0dP" # add your own cookies like ndus=YzrYlCHteHuixx7IN5r0ABCDFXDGSTGBDJKLBKMKH
+COOKIE = "ndus=YQQxzB9peHui0f30K-Sc368se2BEd4m6PcAMomYC" # add your own cookies like ndus=YzrYlCHteHuixx7IN5r0ABCDFXDGSTGBDJKLBKMKH
 
 HEADERS = {
     "Accept": "application/json, text/plain, */*",
